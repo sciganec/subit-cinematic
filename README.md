@@ -87,7 +87,7 @@ SUBIT-Cinematic-Canon/
 
 ## License
 
-MIT License (or another license if preferred).
+MIT License.
 
 ---
 
