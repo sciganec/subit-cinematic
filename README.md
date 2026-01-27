@@ -13,7 +13,7 @@ The project integrates informational‑state theory with cinematic analysis, for
 ---
 
 ## Repository Structure
-
+```
 SUBIT-Cinematic-Canon/
 │
 ├── README.md
@@ -51,7 +51,7 @@ SUBIT-Cinematic-Canon/
 │
 └── releases/
     └── v1.0.0/
-
+```
 ---
 
 ## Main Sections
