@@ -14,34 +14,43 @@ The project integrates informational‑state theory with cinematic analysis, for
 
 ## Repository Structure
 
-docs/  
-  theory/  
-    subit-overview.md  
-    subit-8.md  
-    subit-12.md  
-    subit-64.md  
-    fractal-structures.md  
-  cinematic-analysis/  
-    overview.md  
-    tarkovsky/  
-      overview.md  
-      fractal-cinema.md  
-      stalker-64.md  
-      solaris-64.md  
-      anthology-cycle.md  
-    directors/  
-      placeholder.md  
-  guides/  
-    methodology.md  
-    style-guide.md  
-
-src/  
-  diagrams/  
-  mermaid/  
-  schemas/  
-  assets/  
-
-releases/  
+SUBIT-Cinematic-Canon/
+│
+├── README.md
+├── CHANGELOG.md
+├── LICENSE.md
+│
+├── docs/
+│   ├── theory/
+│   │   ├── subit-overview.md
+│   │   ├── subit-8.md
+│   │   ├── subit-12.md
+│   │   ├── subit-64.md
+│   │   └── fractal-structures.md
+│   │
+│   ├── cinematic-analysis/
+│   │   ├── overview.md
+│   │   ├── tarkovsky/
+│   │   │   ├── overview.md
+│   │   │   ├── fractal-cinema.md
+│   │   │   ├── stalker-64.md
+│   │   │   ├── solaris-64.md
+│   │   │   └── anthology-cycle.md
+│   │   └── directors/
+│   │       └── placeholder.md   # ready for future expansions
+│   │
+│   └── guides/
+│       ├── methodology.md
+│       └── style-guide.md
+│
+├── src/
+│   ├── diagrams/
+│   ├── mermaid/
+│   ├── schemas/
+│   └── assets/
+│
+└── releases/
+    └── v1.0.0/
 
 ---
 
