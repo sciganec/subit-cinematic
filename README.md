@@ -78,7 +78,7 @@ releases/
 
 ## License
 
-MIT License.
+MIT License (or another license if preferred).
 
 ---
 
